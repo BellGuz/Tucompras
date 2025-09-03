@@ -299,7 +299,7 @@ h4{
 {
     font-size: 1.5em;
     padding: 0.25em;
-    margin-right: 0.5em;
+    margin-right: 0.1em;
 }
 .logo a 
 {
@@ -308,8 +308,8 @@ h4{
     position: relative;
     font-weight: var(--fw8);
     display: flex;
-    padding-left: 0.75em;
-    margin-right: 0.75em;
+    padding-left: 0.5em;
+    margin-right: 0.5em;
 }
 .circle
 {
