@@ -101,8 +101,8 @@ var productBig = new Swiper ('.big-image', {
     loop: true,
     autoHeight: true,
     navigation: {
-        nexEl: '.swiper-button-next',
-        preEl: '.swiper-button-prev',
+        nextEl: '.swiper-button-next',
+        prevEl: '.swiper-button-prev',
     },
     thumbs:{
         swiper: productThumb,
