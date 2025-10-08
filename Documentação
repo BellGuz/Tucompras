@@ -1,3 +1,13 @@
 Foi adicionado ou Usado
 
 fslightbox.js cdn
+time: 01:01:53
+
+
+Em page-offer.html
+
+você pode copiar e coloar o tempo de duração de 
+cada promoção, bem como a barra de quantidade em stock
+o nivel da barra pode ser alterado se você mexer nos números
+em "sold" e "stock" ou em outras palavras, nas tags com 
+classes como ".qty-sold" e ".qty-available"
